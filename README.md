@@ -1,12 +1,12 @@
-@ataverascrespo/react-textfit
+@ataverascrespo/react18-ts-textfit
 =========================
 
-* Package created by **[Malte Wessel](http://malte-wessel.github.io/react-textfit/)**, updated for React 18 and TypeScript by Alex Taveras-Crespo
+* New version of the react-textfit package, updated for React 18 and TypeScript by **[Alex Taveras-Crespo](https://alextaverascrespo.com/)**
 * Fit **headlines and paragraphs** into any element by using binary search to find the correct fit
 
 ## Installation
 ```bash
-npm install @ataverascrespo/react-textfit
+npm install @ataverascrespo/react18-ts-textfit
 ```
 
 ## Usage
