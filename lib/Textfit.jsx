@@ -19,7 +19,7 @@ function assertElementFitsHeight(el, height) {
 
 function noop() {}
 
-export default class TextFit extends React.Component {
+export default class Textfit extends React.Component {
     static propTypes = {
         children: PropTypes.node,
         text: PropTypes.string,
