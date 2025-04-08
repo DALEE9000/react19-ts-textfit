@@ -1,7 +1,7 @@
 @dalee9000/react19-ts-textfit
 =========================
 
-* New version of the react-textfit package, updated for React 19 and TypeScript by **[David A. Lee]**
+* New version of the react-textfit package, updated for React 19 and TypeScript by **[David A. Lee](https://dalee-seven.vercel.app/)**
 * Forked from react18-textfit package by **[Alex Taveras-Crespo](https://alextaverascrespo.com/)**
 
 ## Installation
